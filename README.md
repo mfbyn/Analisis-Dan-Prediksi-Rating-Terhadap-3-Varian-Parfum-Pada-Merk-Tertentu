@@ -1,1 +1,3 @@
 # Analisis-Dan-Prediksi-Rating-Terhadap-3-Varian-Parfum-Pada-Merk-Tertentu
+
+Proyek ini bertujuan menganalisis dan memprediksi rating dari teks review pengguna di Tokopedia, khususnya pada ulasan tiga merek parfum populer. Dengan fokus pada fitur content (isi ulasan) dan rating (nilai 1–5), proyek ini mencakup pra-pemrosesan data, eksplorasi fitur teks, dan evaluasi beberapa model machine learning seperti Logistic Regression dan SVC. Tujuannya adalah menemukan kombinasi fitur-model terbaik untuk prediksi akurat, sekaligus mengidentifikasi varian parfum terfavorit berdasarkan korelasi ulasan dan rating, sehingga menghasilkan insight yang aplikatif untuk rekomendasi berbasis data.
